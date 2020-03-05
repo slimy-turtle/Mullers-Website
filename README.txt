@@ -1,6 +1,4 @@
-OPEN IT IN CHROME OR MS EDGE
-
-Open the index.html file
+View at: https://slimy-turtle.github.io/Mullers-Website/
 
 Reload the page to view the next random image.
 
